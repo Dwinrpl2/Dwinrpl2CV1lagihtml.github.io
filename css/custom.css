@@ -1,0 +1,49 @@
+.body {
+    font-family: "Roboto" sans-sherif;
+    font-size: 22px;
+}
+
+.img-thumbail {
+    border-radius: 50%;
+}
+
+.info-text {
+    color: #7A8E9F;
+    font-weight: bolder;
+}
+
+.info-name {
+    font-size: 52px;
+}
+
+.container1{
+    background-color: #0b0b3b;
+    background-image: linear-gradient(#0d6dfdd3 0%,#3a1481 100%);
+    color:white;
+}
+
+.progress{
+    background-color: #6d17b48e;
+}
+.notfun{
+    color:red;
+    font-size: medium;
+    
+}
+
+.video-container{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    height: 20%;
+}
+
+.Betwen{
+    width: 7%;
+}
+
+.contact{
+    background-color: #0b0b3b;
+    background-image: linear-gradient(#0d6dfdd3 0%,#3a1481 100%);
+    color:white;
+}

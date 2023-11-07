@@ -1,0 +1,46 @@
+.body{
+    font-family: 'Roboto'sans-serif;
+    font-size: 20px;
+}
+
+.info-text{
+    color: aqua;
+    font-weight: bolder;
+    font-family: 'Roboto' sans-serif;
+}
+
+.info-name {
+    font-size: 40px;
+}
+
+.info-penting {
+    font-size: 40px;
+}
+
+
+.info-card{
+    background-color: whitesmoke;
+}
+
+.job-position{
+    font-weight: normal;
+}
+
+.penting{
+    font-size: 30px;
+    font-family: 'Roboto' sans-serif;
+    background-color: aquamarine;
+}
+
+.poto{
+    width: 200;
+    height: 200;
+    background: #dac52c;
+    border-radius: 100%;
+}
+
+.video{
+    font-size: 30px;
+    width: 5%;
+    height: 5%;
+}

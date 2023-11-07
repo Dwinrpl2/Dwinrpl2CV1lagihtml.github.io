@@ -1,0 +1,40 @@
+.body{
+    font-family: 'Roboto'sans-serif;
+    font-size: 20px;
+}
+
+.info-text{
+    color: aqua;
+    font-weight: bolder;
+    font-family: 'Roboto' sans-serif;
+}
+
+.info-name {
+    font-size: 40px;
+}
+
+.info-penting {
+    font-size: 40px;
+}
+
+
+.info-card{
+    background-color: rgb(255, 255, 255);
+}
+
+.job-position{
+    font-weight: normal;
+}
+
+.penting{
+    font-size: 35px;
+    font-family: 'Roboto' sans-serif;
+}
+
+.body{
+    background-color: black;
+}
+
+.notfun{
+    
+}
